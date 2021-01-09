@@ -2,6 +2,7 @@
 This is a code repository we build a YouTube Clone Application from Scratch using React. This project is great for learning React because is covers a lot of concepts that appear often in ReactJS workflow. 
 
 ## [Live Site](https://gtube.netlify.app/)
+![image](https://github.com/girishgodage/gtube/blob/main/Gtube.png)
 
 Setup:
 - move a copy of .env.sample to .env and paste your API-key
